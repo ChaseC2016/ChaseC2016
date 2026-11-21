@@ -9,4 +9,4 @@ My work focuses on hands-on technical projects, network security, Python develop
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/chasecantrell2016/) · [Email](mailto:verbcantrell@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/chasecantrell2016/) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=verbcantrell@gmail.com)
