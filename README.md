@@ -6,12 +6,6 @@ I'm an Information Systems student at the University of Texas at San Antonio wit
 
 My work focuses on hands-on technical projects, network security, Python development, and experimenting with local AI systems.
 
- ┌──────┐
- 
- │ >_   │
- 
- └──────┘ 
-
 
 #### Contact
 
