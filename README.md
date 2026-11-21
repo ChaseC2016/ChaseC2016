@@ -1,16 +1,18 @@
-## Hi there 👋
+Information Systems • Cybersecurity
 
-<!--
-**ChaseC2016/ChaseC2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About Me
 
-Here are some ideas to get you started:
+I'm an Information Systems student at the University of Texas at San Antonio with an interest in cybersecurity, threat intelligence, and software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on hands-on technical projects, network security, Python development, and experimenting with local AI systems.
+
+ ┌──────┐
+ 
+ │ >_   │
+ 
+ └──────┘ 
+
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/chasecantrell2016/) · [Email](mailto:verbcantrell@gmail.com)
