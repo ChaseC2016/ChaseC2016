@@ -1,6 +1,6 @@
 Information Systems • Cybersecurity
 
-#### About Me
+#### About
 
 I'm an Information Systems student at the University of Texas at San Antonio with an interest in cybersecurity, threat intelligence, and software development.
 
